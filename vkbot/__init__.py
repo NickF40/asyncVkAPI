@@ -14,7 +14,7 @@ class VkBot:
 
     def process_new_updates(self, update):
         pass
-gitgot
+
     def stop_polling(self):
         pass
 
